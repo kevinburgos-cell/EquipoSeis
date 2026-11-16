@@ -21,4 +21,6 @@ class CitaRepository(
     suspend fun listarRazas() = dogApi.listarRazas().message
 
     suspend fun obtenerImagen(raza: String) = dogApi.obtenerImagen(raza).message
+
+    suspend fun imagenAleatoria() = dogApi.imagenAleatoria().message
 }
