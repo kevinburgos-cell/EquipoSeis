@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">DogApp</string>
+
+    <!-- Nueva Cita -->
+    <string name="nueva_cita">Nueva Cita</string>
+    <string name="atras">Atrás</string>
+    <string name="nombre_mascota">Nombre de la Mascota</string>
+    <string name="raza">Raza</string>
+    <string name="nombre_propietario">Nombre del Propietario</string>
+    <string name="telefono">Teléfono</string>
+    <string name="guardar_cita">Guardar Cita</string>
+    <string name="selecciona_sintoma">Selecciona un síntoma</string>
+    <string name="cita_guardada">Cita guardada</string>
+    <string name="error_guardando">No se pudo guardar la cita</string>
+
+    <string-array name="sintomas">
+        <item>Síntomas</item>
+        <item>Solo duerme</item>
+        <item>No come</item>
+        <item>Fractura extremidad</item>
+        <item>Tiene pulgas</item>
+        <item>Tiene garrapatas</item>
+        <item>Bota demasiado pelo</item>
+    </string-array>
 </resources>
