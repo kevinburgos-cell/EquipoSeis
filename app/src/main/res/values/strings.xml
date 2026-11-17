@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">DogApp</string>
+    <string name="app_name">dogApp</string>
+    <string name="login_title">DogApp</string>
+    <string name="login_fingerprint_action">Autenticarse con huella digital</string>
+    <string name="login_biometric_title">Autenticación con Biometría</string>
+    <string name="login_biometric_subtitle">Ingrese su huella digital</string>
+    <string name="login_biometric_cancel">Cancelar</string>
+    <string name="login_biometric_failed">Huella no reconocida. Inténtalo de nuevo.</string>
+    <string name="login_biometric_no_hardware">Este dispositivo no tiene un sensor biométrico compatible.</string>
+    <string name="login_biometric_not_enrolled">Registra una huella digital en los ajustes del dispositivo.</string>
+    <string name="login_biometric_unavailable">La autenticación biométrica no está disponible en este momento.</string>
 </resources>
