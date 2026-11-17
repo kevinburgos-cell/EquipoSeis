@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DogApp</string>
     <string name="login_title">DogApp</string>
+    <string name="login_fingerprint_action">Autenticarse con huella digital</string>
 </resources>
