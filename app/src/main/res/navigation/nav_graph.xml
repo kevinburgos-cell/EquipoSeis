@@ -51,5 +51,10 @@
         <action
             android:id="@+id/action_editar_cita_to_detalle"
             app:destination="@id/detalleFragment" />
+        <action
+            android:id="@+id/action_editar_cita_to_home"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment"
+            app:popUpToInclusive="true" />
     </fragment>
 </navigation>
