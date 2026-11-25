@@ -3,4 +3,7 @@
     <color name="rosado">#F05861</color>
     <color name="morado_focus">#673AB7</color>
     <color name="azul_fab_editar">#163A63</color>
+    <color name="gris_borde">#9E9E9E</color>
+    <color name="gris_borde_claro">#BDBDBD</color>
+    <color name="rosado_deshabilitado">#F2B5B9</color>
 </resources>
