@@ -29,7 +29,9 @@
         android:name="com.univalle.dogapp.ui.nuevacita.NuevaCitaFragment">
         <action
             android:id="@+id/action_nueva_cita_to_home"
-            app:destination="@id/homeFragment" />
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment"
+            app:popUpToInclusive="false" />
     </fragment>
 
     <fragment
