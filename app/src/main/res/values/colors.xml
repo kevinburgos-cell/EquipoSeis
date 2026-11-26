@@ -6,4 +6,5 @@
     <color name="gris_borde">#9E9E9E</color>
     <color name="gris_borde_claro">#BDBDBD</color>
     <color name="rosado_deshabilitado">#F2B5B9</color>
+    <color name="texto_secundario">#5F6368</color>
 </resources>
