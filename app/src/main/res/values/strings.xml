@@ -22,6 +22,13 @@
     <string name="cita_guardada">Cita guardada</string>
     <string name="error_guardando">No se pudo guardar la cita</string>
 
+    <!-- Home -->
+    <string name="home_titulo">Administrador de Citas</string>
+    <string name="home_sin_citas">Aún no hay citas registradas</string>
+    <string name="home_nueva_cita">Nueva cita</string>
+    <string name="home_turno">Turno %1$d</string>
+    <string name="home_foto_mascota">Foto de %1$s</string>
+
     <string-array name="sintomas">
         <item>Síntomas</item>
         <item>Solo duerme</item>
