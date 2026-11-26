@@ -29,6 +29,14 @@
     <string name="home_turno">Turno %1$d</string>
     <string name="home_foto_mascota">Foto de %1$s</string>
 
+    <!-- Detalle -->
+    <string name="detalle_no_encontrada">No se encontró la cita</string>
+    <string name="detalle_error_eliminar">No se pudo eliminar la cita</string>
+    <string name="detalle_propietario">Propietario: %1$s</string>
+    <string name="detalle_telefono">Teléfono: %1$s</string>
+    <string name="detalle_eliminar">Eliminar cita</string>
+    <string name="detalle_editar">Editar cita</string>
+
     <string-array name="sintomas">
         <item>Síntomas</item>
         <item>Solo duerme</item>

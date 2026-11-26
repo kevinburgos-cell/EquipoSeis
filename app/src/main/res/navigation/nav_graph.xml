@@ -40,7 +40,9 @@
         <argument android:name="citaId" app:argType="long" />
         <action
             android:id="@+id/action_detalle_to_home"
-            app:destination="@id/homeFragment" />
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment"
+            app:popUpToInclusive="false" />
         <action
             android:id="@+id/action_detalle_to_editar_cita"
             app:destination="@id/editarCitaFragment" />
